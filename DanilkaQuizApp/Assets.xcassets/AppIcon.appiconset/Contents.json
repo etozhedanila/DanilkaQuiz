@@ -1,107 +1,101 @@
 {
   "images" : [
     {
-      "filename" : "40.png",
       "idiom" : "iphone",
-      "scale" : "2x",
-      "size" : "20x20"
+      "size" : "20x20",
+      "scale" : "2x"
     },
     {
-      "filename" : "60.png",
       "idiom" : "iphone",
-      "scale" : "3x",
-      "size" : "20x20"
+      "size" : "20x20",
+      "scale" : "3x"
     },
     {
-      "filename" : "58.png",
       "idiom" : "iphone",
-      "scale" : "2x",
-      "size" : "29x29"
+      "size" : "29x29",
+      "scale" : "2x"
     },
     {
-      "filename" : "87.png",
       "idiom" : "iphone",
-      "scale" : "3x",
-      "size" : "29x29"
+      "size" : "29x29",
+      "scale" : "3x"
     },
     {
-      "filename" : "80.png",
       "idiom" : "iphone",
-      "scale" : "2x",
-      "size" : "40x40"
+      "size" : "40x40",
+      "scale" : "2x"
     },
     {
+      "idiom" : "iphone",
+      "size" : "40x40",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
       "filename" : "instagramIcon@2x.png",
-      "idiom" : "iphone",
-      "scale" : "3x",
-      "size" : "40x40"
+      "scale" : "2x"
     },
     {
-      "filename" : "120-1.png",
+      "size" : "60x60",
       "idiom" : "iphone",
-      "scale" : "2x",
-      "size" : "60x60"
-    },
-    {
       "filename" : "instagramIcon@3x.png",
-      "idiom" : "iphone",
-      "scale" : "3x",
-      "size" : "60x60"
+      "scale" : "3x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "1x",
-      "size" : "20x20"
+      "size" : "20x20",
+      "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "2x",
-      "size" : "20x20"
+      "size" : "20x20",
+      "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "1x",
-      "size" : "29x29"
+      "size" : "29x29",
+      "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "2x",
-      "size" : "29x29"
+      "size" : "29x29",
+      "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "1x",
-      "size" : "40x40"
+      "size" : "40x40",
+      "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "2x",
-      "size" : "40x40"
+      "size" : "40x40",
+      "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "1x",
-      "size" : "76x76"
+      "size" : "76x76",
+      "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "2x",
-      "size" : "76x76"
+      "size" : "76x76",
+      "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "scale" : "2x",
-      "size" : "83.5x83.5"
+      "size" : "83.5x83.5",
+      "scale" : "2x"
     },
     {
-      "filename" : "1024.png",
+      "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "scale" : "1x",
-      "size" : "1024x1024"
+      "filename" : "instagramIcon.png",
+      "scale" : "1x"
     }
   ],
   "info" : {
-    "author" : "xcode",
-    "version" : 1
+    "version" : 1,
+    "author" : "xcode"
   }
 }
